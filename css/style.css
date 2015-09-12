@@ -62,7 +62,7 @@ h1 {
 	font-weight: 800;
 	line-height: 80px;
 	letter-spacing: -0.08em;
-	color: #161a1b; 
+	color: white; 
 }
 
 h2 {
@@ -71,7 +71,7 @@ h2 {
 	line-height: 1em;
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
-	color: #161a1b;
+	color: white;
 }
 
 #countdown div span {
@@ -92,6 +92,7 @@ h2 {
 	font-size: 18px;
 	margin-top: 5px;
 	margin-bottom: 0px;
+    color: white;
 }
 
 
@@ -172,7 +173,7 @@ h2 {
 	margin: 0 auto;
 	width: 60px;
 	height: 1px;
-	background: #00d9ec;
+	background: lightgreen;
 	margin-top: 10px;
 }
 
@@ -223,7 +224,7 @@ h2 {
 
 .contact a.mail {
 	text-decoration: none;
-	color: #161a1b;
+	color: white;
 	padding-bottom: 8px;
 	font-size: 15px;
 }
@@ -236,7 +237,7 @@ h2 {
 	margin-left: -60px;
 	margin-top: 10px;
 	height: 1px;
-	background: #666666;
+	background: lightgreen;
 	content: '';
 	opacity: 0;
 	-webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
