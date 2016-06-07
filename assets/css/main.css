@@ -126,7 +126,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: #414f57;
+		color: #000;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 14pt;
 		font-weight: 300;
@@ -185,7 +185,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #313f47;
+		color: #000;
 		line-height: 1.5;
 		margin: 0 0 0.75em 0;
 	}
@@ -523,7 +523,7 @@
 					width: 3.75em;
 					height: 3.75em;
 					border-radius: 100%;
-					border: solid 1px #c8cccf;
+					border: solid 1px #000;
 					line-height: 3.75em;
 					overflow: hidden;
 					text-align: center;
@@ -541,7 +541,7 @@
 					}
 
 					ul.icons li a:before {
-						color: #ffffff;
+						color: #000;
 						text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf, 0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf;
 					}
 
@@ -705,7 +705,7 @@
 		max-width: 100%;
 		min-width: 27em;
 		padding: 4.5em 3em 3em 3em ;
-		background: #ffffff;
+		background: gray;
 		border-radius: 4px;
 		cursor: default;
 		opacity: 1;
@@ -734,7 +734,7 @@
 				display: block;
 				margin: 0 auto;
 				border-radius: 100%;
-				box-shadow: 0 0 0 1.5em #ffffff;
+				box-shadow: 0 0 0 1.5em gray;
 			}
 
 			#main .avatar:before {
@@ -746,7 +746,7 @@
 				width: calc(100% + 6em);
 				height: 1px;
 				z-index: -1;
-				background: #c8cccf;
+				background: #000;
 			}
 
 		@media screen and (max-width: 480px) {
