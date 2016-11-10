@@ -268,7 +268,7 @@ a:before {
 }
 
 a:hover {
-    color: #ff7496;
+    color: #009999;
 }
 
 strong,
@@ -749,8 +749,8 @@ input[type="reset"]:hover,
 input[type="button"]:hover,
 button:hover,
 .button:hover {
-    border-color: #ff7496;
-    color: #ff7496 !important;
+    border-color: #009999;
+    color: #009999 !important;
 }
 
 input[type="submit"].icon,
@@ -820,7 +820,7 @@ button:disabled,
     max-width: 100%;
     min-width: 27em;
     padding: 4.5em 3em 3em 3em;
-    background: gray;
+    background: #aaa;
     border-radius: 4px;
     cursor: default;
     opacity: 1;
@@ -849,7 +849,7 @@ button:disabled,
     display: block;
     margin: 0 auto;
     border-radius: 100%;
-    box-shadow: 0 0 0 1.5em gray;
+    box-shadow: 0 0 0 1.5em #aaa;
 }
 
 #main .avatar:before {
