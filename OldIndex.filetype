@@ -2,12 +2,12 @@
 <html>
 
 <head>
-    <title>Jack Tawes</title>
+    <title>Jack's Website</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0" />
     <link href="images/favicon.ico" rel="icon" type="image/x-icon" />
     <meta name="Description" content="The Personal Website Of Jack Tawes">
-    <meta name="Keywords" content="Jack, Tawes, UMBC, UMES, Specx, John, Pearson, John Pearson Tawes IV, John P. Tawes IV, John P Tawes IV, IV, student, content creator, web guru, man who makes things, IT consultant">
+    <meta name="Keywords" content="Jack, Tawes, UMBC, UMES, Specx, John, Pearson, John Pearson Tawes IV, John P. Tawes IV, John P Tawes IV, IV, student, content creator, web guru, man who makes things">
     <meta property="og:image" content="http://jacktawes.tk/images/logo.png" />
     <meta property="og:description" content="The Personal Website Of Jack Tawes" />
     <meta property="og:url" content="http://jacktawes.tk/" />
@@ -38,6 +38,9 @@
             <footer>
                 <ul class="icons">
                     <li><a title="Click For My Email Address" onclick="prompt('This Is My Email Address', 'jack@specx.tech'); return false;" class="fa-envelope-o">Email</a></li>
+                    <li><a href="https://github.com/codebooker" title="Click For My Github Profile" class="fa-github">Github</a></li>
+                    <li><a href="https://www.linkedin.com/in/jacktawes?trk=pub-pbmap" title="Click For My LinkedIn Profile" class="fa-linkedin">LinkedIn</a></li>
+                    <li><a href="https://docs.google.com/viewer?url=http://www.jacktawes.tk/JackTawesResume.pdf" title="Click For My Resume" class="fa-file-text">My Resume</a></li>
                 </ul>
                 <h6>&copy; Copyright 2015-2018, <a href="mailto:jack@specx.tech">Jack Tawes</a></h6></footer>
         </section>
